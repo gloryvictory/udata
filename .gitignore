@@ -14,3 +14,4 @@ cfg.py
 out
 __pycache__
 examples.py
+db.sqlite3
